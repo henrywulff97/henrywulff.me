@@ -1,0 +1,14 @@
+.cv-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  .grid-x {
+    .cell {
+      .callout {
+        margin: 0.5rem;
+        padding: 0.5rem;
+        height: 8rem;
+      }
+    }
+  }
+}

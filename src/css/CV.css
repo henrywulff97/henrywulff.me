@@ -1,0 +1,12 @@
+.cv-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.cv-wrapper .grid-x .cell .callout {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  height: 8rem;
+}
+
+/*# sourceMappingURL=CV.css.map */

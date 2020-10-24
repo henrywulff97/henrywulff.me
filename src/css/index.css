@@ -1,0 +1,15 @@
+@import './../foundation/css/foundation.css';
+body {
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+@font-face {
+  font-family: moonglade;
+  src: url("./../resources/Moonglade.ttf");
+}
+
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,63 @@
+.top-bar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 10%;
+  padding: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7), black);
+  color: rgba(255, 255, 255, 0.8);
+}
+.top-bar > * {
+  flex: auto;
+  height: 100%;
+}
+.top-bar .top-bar-left .logo {
+  padding-left: 1rem;
+  height: 100%;
+  width: fit-content;
+  display: grid;
+  align-content: center;
+  cursor: pointer;
+  font-family: moonglade;
+  font-size: 1.8rem;
+  transition: color 300ms ease-in-out;
+}
+.top-bar .top-bar-left .logo:hover {
+  color: white;
+}
+.top-bar .top-bar-center .tab-bar {
+  display: flex;
+  height: 100%;
+}
+.top-bar .top-bar-center .tab-bar .tab {
+  padding: 0 10px 0 10px;
+  height: 100%;
+  display: grid;
+  align-content: center;
+  border-top: 5px solid transparent;
+  cursor: pointer;
+  transition: color 300ms ease-in-out, border 300ms ease-in-out;
+}
+.top-bar .top-bar-center .tab-bar .tab.is-active {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.85), black);
+  border-top: 5px solid rgba(255, 255, 255, 0.8);
+}
+.top-bar .top-bar-center .tab-bar .tab:hover {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.85), black);
+  border-top: 5px solid white;
+  color: white;
+}
+.top-bar .top-bar-right .languageToggle {
+  padding-right: 1rem;
+  height: 100%;
+  width: fit-content;
+  display: grid;
+  align-content: center;
+  transition: color 300ms ease-in-out;
+  cursor: pointer;
+}
+.top-bar .top-bar-right .languageToggle:hover {
+  color: white;
+}
+
+/*# sourceMappingURL=TabBar.css.map */

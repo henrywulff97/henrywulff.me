@@ -1,0 +1,21 @@
+.widget {
+  position: relative;
+  border: 1px solid rgba(10, 10, 10, 0.25);
+  margin: 0.5rem;
+  height: 8rem;
+}
+.widget > * {
+  padding: 0.5rem;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.widget .cover {
+  background-color: red;
+}
+.widget .content {
+  background-color: green;
+}
+
+/*# sourceMappingURL=Widget.css.map */
