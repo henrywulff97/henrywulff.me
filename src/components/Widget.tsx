@@ -34,7 +34,7 @@ export default class Widget extends Component<Props, State> {
                     <div className="content">
                         {this.props.text}
                         <div className="open-side-dialog" onClick={()=>this.props.onOpenSideDialog()}>
-                            open side dialog
+                            {translate(10)}
                         </div>
                     </div>
                 ) : 
