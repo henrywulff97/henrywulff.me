@@ -76,15 +76,17 @@ export default class CV extends Component<Props, State> {
 
         if(this.state.sideDialogElement) {
             return(
-                <>
+                <div className="main-component">
                     {widgets}
                     <SideDialog contentElement={this.state.sideDialogElement} close={this.closeSideDialog}/>
-                </>
+                </div>
             )
         }
         else {
             return(
-                widgets
+                <div className="main-component">
+                    {widgets}
+                </div>
             )
         }
     }

@@ -16,7 +16,7 @@ export default class Home extends Component<Props, State> {
 
     render() {
         return(
-            <div>
+            <div className="main-component">
               Home
             </div>
         )

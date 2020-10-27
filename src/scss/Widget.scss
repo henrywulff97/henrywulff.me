@@ -15,6 +15,7 @@
   .cover {
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
   }
 
   .content {
@@ -22,7 +23,9 @@
     background-color: rgba(255, 255, 255, 0.3);
 
     .open-side-dialog {
-      display: inline;
+      position: absolute;
+      bottom: 0;
+      cursor: pointer;
     }
   }
 }

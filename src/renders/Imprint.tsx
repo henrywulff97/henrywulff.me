@@ -17,7 +17,7 @@ export default class Imprint extends Component<Props, State> {
 
     render() {
         return(
-            <div className="imprint">
+            <div className="main-component imprint">
                 <div className="text">
                     {translate(0)}
                 </div>

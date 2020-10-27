@@ -1,7 +1,8 @@
-import React, { Component } from "react";
+import React, { Component, useRef } from "react";
 import "./css/App.css";
 import { TabBar } from "./components/components";
 import { About, CV, Home, Imprint } from "./renders/renders";
+import { SwitchTransition, CSSTransition } from 'react-transition-group'
 
 type Props = {
     

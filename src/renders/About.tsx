@@ -17,8 +17,12 @@ export default class About extends Component<Props, State> {
 
     render() {
         return(
-            <div className="about">
-              {translate(5)}
+            <div className="main-component about">
+                <div>{translate(5)}</div>
+                <div>{translate(11)}</div>
+                <div>{translate(12)}</div>
+                <div>{translate(13)}</div>
+                <a className="github" href="https://github.com/henrywulff97/henrywulff.me" target="_blank">{translate(14)}</a>
             </div>
         )
     }

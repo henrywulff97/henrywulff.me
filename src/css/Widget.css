@@ -14,13 +14,16 @@
 .widget .cover {
   backdrop-filter: blur(10px);
   background-color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
 }
 .widget .content {
   backdrop-filter: blur(10px);
   background-color: rgba(255, 255, 255, 0.3);
 }
 .widget .content .open-side-dialog {
-  display: inline;
+  position: absolute;
+  bottom: 0;
+  cursor: pointer;
 }
 
 /*# sourceMappingURL=Widget.css.map */
