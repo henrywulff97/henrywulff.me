@@ -115,4 +115,11 @@ $shooting-time: 3000ms;
       transform: translateX(300px);
     }
   }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    opacity: .1;
+  }
 }

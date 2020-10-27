@@ -67,6 +67,7 @@ export default class App extends Component<Props, State> {
     }
 
     render() {
+        const packageJSON = require('./../package.json')
         const currentPage = this.state.activePage;
         let pageContent;
 
@@ -94,6 +95,7 @@ export default class App extends Component<Props, State> {
                 <div className="page-content-wrapper">
                     {pageContent}
                 </div>
+                <div className="footer">{packageJSON.name} - {packageJSON.version}</div>
             </div>
         )
     }

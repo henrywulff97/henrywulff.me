@@ -54,274 +54,274 @@
   transform: translateX(50%) rotateZ(-45deg);
 }
 .app-wrapper .shooting_star:nth-child(1) {
-  animation-delay: 2255ms;
-  top: calc(20% - -1026px);
-  left: calc(20% - -44px);
-  opacity: 0.85;
+  animation-delay: 3860ms;
+  top: calc(20% - -1061px);
+  left: calc(20% - -452px);
+  opacity: 0.63;
 }
 .app-wrapper .shooting_star:nth-child(1)::before, .app-wrapper .shooting_star:nth-child(1)::after {
-  animation-delay: 2255ms;
+  animation-delay: 3860ms;
 }
 .app-wrapper .shooting_star:nth-child(2) {
-  animation-delay: 728ms;
-  top: calc(20% - -1282px);
-  left: calc(20% - -441px);
-  opacity: 0.93;
+  animation-delay: 750ms;
+  top: calc(20% - -1131px);
+  left: calc(20% - -373px);
+  opacity: 0.57;
 }
 .app-wrapper .shooting_star:nth-child(2)::before, .app-wrapper .shooting_star:nth-child(2)::after {
-  animation-delay: 728ms;
+  animation-delay: 750ms;
 }
 .app-wrapper .shooting_star:nth-child(3) {
-  animation-delay: 6949ms;
-  top: calc(20% - -1260px);
-  left: calc(20% - -975px);
-  opacity: 0.97;
+  animation-delay: 5171ms;
+  top: calc(20% - -526px);
+  left: calc(20% - -235px);
+  opacity: 0.91;
 }
 .app-wrapper .shooting_star:nth-child(3)::before, .app-wrapper .shooting_star:nth-child(3)::after {
-  animation-delay: 6949ms;
+  animation-delay: 5171ms;
 }
 .app-wrapper .shooting_star:nth-child(4) {
-  animation-delay: 8597ms;
-  top: calc(20% - -1167px);
-  left: calc(20% - -334px);
-  opacity: 0.6;
+  animation-delay: 4184ms;
+  top: calc(20% - -630px);
+  left: calc(20% - -503px);
+  opacity: 0.89;
 }
 .app-wrapper .shooting_star:nth-child(4)::before, .app-wrapper .shooting_star:nth-child(4)::after {
-  animation-delay: 8597ms;
+  animation-delay: 4184ms;
 }
 .app-wrapper .shooting_star:nth-child(5) {
-  animation-delay: 7738ms;
-  top: calc(20% - -1261px);
-  left: calc(20% - -306px);
-  opacity: 1;
+  animation-delay: 2917ms;
+  top: calc(20% - -688px);
+  left: calc(20% - -299px);
+  opacity: 0.82;
 }
 .app-wrapper .shooting_star:nth-child(5)::before, .app-wrapper .shooting_star:nth-child(5)::after {
-  animation-delay: 7738ms;
+  animation-delay: 2917ms;
 }
 .app-wrapper .shooting_star:nth-child(6) {
-  animation-delay: 3652ms;
-  top: calc(20% - -1289px);
-  left: calc(20% - -977px);
-  opacity: 0.93;
+  animation-delay: 1023ms;
+  top: calc(20% - -7px);
+  left: calc(20% - -468px);
+  opacity: 0.95;
 }
 .app-wrapper .shooting_star:nth-child(6)::before, .app-wrapper .shooting_star:nth-child(6)::after {
-  animation-delay: 3652ms;
+  animation-delay: 1023ms;
 }
 .app-wrapper .shooting_star:nth-child(7) {
-  animation-delay: 8634ms;
-  top: calc(20% - -1249px);
-  left: calc(20% - -218px);
-  opacity: 0.72;
+  animation-delay: 908ms;
+  top: calc(20% - -1002px);
+  left: calc(20% - -1159px);
+  opacity: 0.51;
 }
 .app-wrapper .shooting_star:nth-child(7)::before, .app-wrapper .shooting_star:nth-child(7)::after {
-  animation-delay: 8634ms;
+  animation-delay: 908ms;
 }
 .app-wrapper .shooting_star:nth-child(8) {
-  animation-delay: 2004ms;
-  top: calc(20% - -205px);
-  left: calc(20% - -729px);
-  opacity: 0.59;
+  animation-delay: 4110ms;
+  top: calc(20% - -534px);
+  left: calc(20% - -210px);
+  opacity: 0.55;
 }
 .app-wrapper .shooting_star:nth-child(8)::before, .app-wrapper .shooting_star:nth-child(8)::after {
-  animation-delay: 2004ms;
+  animation-delay: 4110ms;
 }
 .app-wrapper .shooting_star:nth-child(9) {
-  animation-delay: 2013ms;
-  top: calc(20% - -935px);
-  left: calc(20% - -206px);
-  opacity: 0.96;
+  animation-delay: 8557ms;
+  top: calc(20% - -985px);
+  left: calc(20% - -579px);
+  opacity: 0.56;
 }
 .app-wrapper .shooting_star:nth-child(9)::before, .app-wrapper .shooting_star:nth-child(9)::after {
-  animation-delay: 2013ms;
+  animation-delay: 8557ms;
 }
 .app-wrapper .shooting_star:nth-child(10) {
-  animation-delay: 4457ms;
-  top: calc(20% - -1262px);
-  left: calc(20% - -453px);
-  opacity: 0.94;
+  animation-delay: 2158ms;
+  top: calc(20% - -1144px);
+  left: calc(20% - -220px);
+  opacity: 0.63;
 }
 .app-wrapper .shooting_star:nth-child(10)::before, .app-wrapper .shooting_star:nth-child(10)::after {
-  animation-delay: 4457ms;
+  animation-delay: 2158ms;
 }
 .app-wrapper .shooting_star:nth-child(11) {
-  animation-delay: 3565ms;
-  top: calc(20% - -784px);
-  left: calc(20% - -303px);
-  opacity: 0.61;
+  animation-delay: 77ms;
+  top: calc(20% - -263px);
+  left: calc(20% - -32px);
+  opacity: 0.65;
 }
 .app-wrapper .shooting_star:nth-child(11)::before, .app-wrapper .shooting_star:nth-child(11)::after {
-  animation-delay: 3565ms;
+  animation-delay: 77ms;
 }
 .app-wrapper .shooting_star:nth-child(12) {
-  animation-delay: 9334ms;
-  top: calc(20% - -18px);
-  left: calc(20% - -1041px);
-  opacity: 0.73;
+  animation-delay: 2005ms;
+  top: calc(20% - -1273px);
+  left: calc(20% - -184px);
+  opacity: 0.83;
 }
 .app-wrapper .shooting_star:nth-child(12)::before, .app-wrapper .shooting_star:nth-child(12)::after {
-  animation-delay: 9334ms;
+  animation-delay: 2005ms;
 }
 .app-wrapper .shooting_star:nth-child(13) {
-  animation-delay: 4704ms;
-  top: calc(20% - -895px);
-  left: calc(20% - -869px);
-  opacity: 0.59;
-}
-.app-wrapper .shooting_star:nth-child(13)::before, .app-wrapper .shooting_star:nth-child(13)::after {
-  animation-delay: 4704ms;
-}
-.app-wrapper .shooting_star:nth-child(14) {
-  animation-delay: 1926ms;
-  top: calc(20% - -1077px);
-  left: calc(20% - -882px);
-  opacity: 0.81;
-}
-.app-wrapper .shooting_star:nth-child(14)::before, .app-wrapper .shooting_star:nth-child(14)::after {
-  animation-delay: 1926ms;
-}
-.app-wrapper .shooting_star:nth-child(15) {
-  animation-delay: 795ms;
-  top: calc(20% - -1068px);
-  left: calc(20% - -22px);
-  opacity: 0.53;
-}
-.app-wrapper .shooting_star:nth-child(15)::before, .app-wrapper .shooting_star:nth-child(15)::after {
-  animation-delay: 795ms;
-}
-.app-wrapper .shooting_star:nth-child(16) {
-  animation-delay: 7062ms;
-  top: calc(20% - -180px);
-  left: calc(20% - -787px);
-  opacity: 0.78;
-}
-.app-wrapper .shooting_star:nth-child(16)::before, .app-wrapper .shooting_star:nth-child(16)::after {
-  animation-delay: 7062ms;
-}
-.app-wrapper .shooting_star:nth-child(17) {
-  animation-delay: 8185ms;
-  top: calc(20% - -1196px);
-  left: calc(20% - -858px);
-  opacity: 0.97;
-}
-.app-wrapper .shooting_star:nth-child(17)::before, .app-wrapper .shooting_star:nth-child(17)::after {
-  animation-delay: 8185ms;
-}
-.app-wrapper .shooting_star:nth-child(18) {
-  animation-delay: 2779ms;
-  top: calc(20% - -1011px);
-  left: calc(20% - -908px);
-  opacity: 0.66;
-}
-.app-wrapper .shooting_star:nth-child(18)::before, .app-wrapper .shooting_star:nth-child(18)::after {
-  animation-delay: 2779ms;
-}
-.app-wrapper .shooting_star:nth-child(19) {
-  animation-delay: 1969ms;
-  top: calc(20% - -326px);
-  left: calc(20% - -873px);
+  animation-delay: 6586ms;
+  top: calc(20% - -1102px);
+  left: calc(20% - -403px);
   opacity: 0.77;
 }
-.app-wrapper .shooting_star:nth-child(19)::before, .app-wrapper .shooting_star:nth-child(19)::after {
-  animation-delay: 1969ms;
+.app-wrapper .shooting_star:nth-child(13)::before, .app-wrapper .shooting_star:nth-child(13)::after {
+  animation-delay: 6586ms;
 }
-.app-wrapper .shooting_star:nth-child(20) {
-  animation-delay: 5149ms;
-  top: calc(20% - -851px);
-  left: calc(20% - -1195px);
-  opacity: 0.88;
-}
-.app-wrapper .shooting_star:nth-child(20)::before, .app-wrapper .shooting_star:nth-child(20)::after {
-  animation-delay: 5149ms;
-}
-.app-wrapper .shooting_star:nth-child(21) {
-  animation-delay: 1056ms;
-  top: calc(20% - -288px);
-  left: calc(20% - -887px);
-  opacity: 0.96;
-}
-.app-wrapper .shooting_star:nth-child(21)::before, .app-wrapper .shooting_star:nth-child(21)::after {
-  animation-delay: 1056ms;
-}
-.app-wrapper .shooting_star:nth-child(22) {
-  animation-delay: 4463ms;
-  top: calc(20% - -924px);
-  left: calc(20% - -1122px);
-  opacity: 0.59;
-}
-.app-wrapper .shooting_star:nth-child(22)::before, .app-wrapper .shooting_star:nth-child(22)::after {
-  animation-delay: 4463ms;
-}
-.app-wrapper .shooting_star:nth-child(23) {
-  animation-delay: 8047ms;
-  top: calc(20% - -1233px);
-  left: calc(20% - -527px);
-  opacity: 0.76;
-}
-.app-wrapper .shooting_star:nth-child(23)::before, .app-wrapper .shooting_star:nth-child(23)::after {
-  animation-delay: 8047ms;
-}
-.app-wrapper .shooting_star:nth-child(24) {
-  animation-delay: 1379ms;
-  top: calc(20% - -87px);
-  left: calc(20% - -550px);
-  opacity: 0.71;
-}
-.app-wrapper .shooting_star:nth-child(24)::before, .app-wrapper .shooting_star:nth-child(24)::after {
-  animation-delay: 1379ms;
-}
-.app-wrapper .shooting_star:nth-child(25) {
-  animation-delay: 7237ms;
-  top: calc(20% - -175px);
-  left: calc(20% - -611px);
-  opacity: 0.85;
-}
-.app-wrapper .shooting_star:nth-child(25)::before, .app-wrapper .shooting_star:nth-child(25)::after {
-  animation-delay: 7237ms;
-}
-.app-wrapper .shooting_star:nth-child(26) {
-  animation-delay: 857ms;
-  top: calc(20% - -656px);
-  left: calc(20% - -759px);
-  opacity: 0.89;
-}
-.app-wrapper .shooting_star:nth-child(26)::before, .app-wrapper .shooting_star:nth-child(26)::after {
-  animation-delay: 857ms;
-}
-.app-wrapper .shooting_star:nth-child(27) {
-  animation-delay: 8764ms;
-  top: calc(20% - -487px);
-  left: calc(20% - -1209px);
-  opacity: 0.97;
-}
-.app-wrapper .shooting_star:nth-child(27)::before, .app-wrapper .shooting_star:nth-child(27)::after {
-  animation-delay: 8764ms;
-}
-.app-wrapper .shooting_star:nth-child(28) {
-  animation-delay: 7375ms;
-  top: calc(20% - -822px);
-  left: calc(20% - -889px);
+.app-wrapper .shooting_star:nth-child(14) {
+  animation-delay: 849ms;
+  top: calc(20% - -442px);
+  left: calc(20% - -167px);
   opacity: 0.86;
 }
+.app-wrapper .shooting_star:nth-child(14)::before, .app-wrapper .shooting_star:nth-child(14)::after {
+  animation-delay: 849ms;
+}
+.app-wrapper .shooting_star:nth-child(15) {
+  animation-delay: 9158ms;
+  top: calc(20% - -734px);
+  left: calc(20% - -1160px);
+  opacity: 0.51;
+}
+.app-wrapper .shooting_star:nth-child(15)::before, .app-wrapper .shooting_star:nth-child(15)::after {
+  animation-delay: 9158ms;
+}
+.app-wrapper .shooting_star:nth-child(16) {
+  animation-delay: 6211ms;
+  top: calc(20% - -333px);
+  left: calc(20% - -838px);
+  opacity: 0.56;
+}
+.app-wrapper .shooting_star:nth-child(16)::before, .app-wrapper .shooting_star:nth-child(16)::after {
+  animation-delay: 6211ms;
+}
+.app-wrapper .shooting_star:nth-child(17) {
+  animation-delay: 9989ms;
+  top: calc(20% - -875px);
+  left: calc(20% - -1164px);
+  opacity: 0.92;
+}
+.app-wrapper .shooting_star:nth-child(17)::before, .app-wrapper .shooting_star:nth-child(17)::after {
+  animation-delay: 9989ms;
+}
+.app-wrapper .shooting_star:nth-child(18) {
+  animation-delay: 778ms;
+  top: calc(20% - -963px);
+  left: calc(20% - -1211px);
+  opacity: 0.6;
+}
+.app-wrapper .shooting_star:nth-child(18)::before, .app-wrapper .shooting_star:nth-child(18)::after {
+  animation-delay: 778ms;
+}
+.app-wrapper .shooting_star:nth-child(19) {
+  animation-delay: 8769ms;
+  top: calc(20% - -1286px);
+  left: calc(20% - -488px);
+  opacity: 0.85;
+}
+.app-wrapper .shooting_star:nth-child(19)::before, .app-wrapper .shooting_star:nth-child(19)::after {
+  animation-delay: 8769ms;
+}
+.app-wrapper .shooting_star:nth-child(20) {
+  animation-delay: 612ms;
+  top: calc(20% - -335px);
+  left: calc(20% - -317px);
+  opacity: 0.63;
+}
+.app-wrapper .shooting_star:nth-child(20)::before, .app-wrapper .shooting_star:nth-child(20)::after {
+  animation-delay: 612ms;
+}
+.app-wrapper .shooting_star:nth-child(21) {
+  animation-delay: 4732ms;
+  top: calc(20% - -328px);
+  left: calc(20% - -81px);
+  opacity: 0.72;
+}
+.app-wrapper .shooting_star:nth-child(21)::before, .app-wrapper .shooting_star:nth-child(21)::after {
+  animation-delay: 4732ms;
+}
+.app-wrapper .shooting_star:nth-child(22) {
+  animation-delay: 6450ms;
+  top: calc(20% - -524px);
+  left: calc(20% - -538px);
+  opacity: 0.9;
+}
+.app-wrapper .shooting_star:nth-child(22)::before, .app-wrapper .shooting_star:nth-child(22)::after {
+  animation-delay: 6450ms;
+}
+.app-wrapper .shooting_star:nth-child(23) {
+  animation-delay: 5335ms;
+  top: calc(20% - -743px);
+  left: calc(20% - -788px);
+  opacity: 0.69;
+}
+.app-wrapper .shooting_star:nth-child(23)::before, .app-wrapper .shooting_star:nth-child(23)::after {
+  animation-delay: 5335ms;
+}
+.app-wrapper .shooting_star:nth-child(24) {
+  animation-delay: 5558ms;
+  top: calc(20% - -1138px);
+  left: calc(20% - -178px);
+  opacity: 0.79;
+}
+.app-wrapper .shooting_star:nth-child(24)::before, .app-wrapper .shooting_star:nth-child(24)::after {
+  animation-delay: 5558ms;
+}
+.app-wrapper .shooting_star:nth-child(25) {
+  animation-delay: 2298ms;
+  top: calc(20% - -1260px);
+  left: calc(20% - -134px);
+  opacity: 0.69;
+}
+.app-wrapper .shooting_star:nth-child(25)::before, .app-wrapper .shooting_star:nth-child(25)::after {
+  animation-delay: 2298ms;
+}
+.app-wrapper .shooting_star:nth-child(26) {
+  animation-delay: 8683ms;
+  top: calc(20% - -445px);
+  left: calc(20% - -859px);
+  opacity: 0.69;
+}
+.app-wrapper .shooting_star:nth-child(26)::before, .app-wrapper .shooting_star:nth-child(26)::after {
+  animation-delay: 8683ms;
+}
+.app-wrapper .shooting_star:nth-child(27) {
+  animation-delay: 1532ms;
+  top: calc(20% - -645px);
+  left: calc(20% - -593px);
+  opacity: 0.53;
+}
+.app-wrapper .shooting_star:nth-child(27)::before, .app-wrapper .shooting_star:nth-child(27)::after {
+  animation-delay: 1532ms;
+}
+.app-wrapper .shooting_star:nth-child(28) {
+  animation-delay: 375ms;
+  top: calc(20% - -1070px);
+  left: calc(20% - -821px);
+  opacity: 0.6;
+}
 .app-wrapper .shooting_star:nth-child(28)::before, .app-wrapper .shooting_star:nth-child(28)::after {
-  animation-delay: 7375ms;
+  animation-delay: 375ms;
 }
 .app-wrapper .shooting_star:nth-child(29) {
-  animation-delay: 612ms;
-  top: calc(20% - -314px);
-  left: calc(20% - -1230px);
-  opacity: 0.99;
+  animation-delay: 981ms;
+  top: calc(20% - -231px);
+  left: calc(20% - -1158px);
+  opacity: 0.64;
 }
 .app-wrapper .shooting_star:nth-child(29)::before, .app-wrapper .shooting_star:nth-child(29)::after {
-  animation-delay: 612ms;
+  animation-delay: 981ms;
 }
 .app-wrapper .shooting_star:nth-child(30) {
-  animation-delay: 582ms;
-  top: calc(20% - -309px);
-  left: calc(20% - -851px);
-  opacity: 0.89;
+  animation-delay: 4512ms;
+  top: calc(20% - -191px);
+  left: calc(20% - -545px);
+  opacity: 0.75;
 }
 .app-wrapper .shooting_star:nth-child(30)::before, .app-wrapper .shooting_star:nth-child(30)::after {
-  animation-delay: 582ms;
+  animation-delay: 4512ms;
 }
 @keyframes tail {
   0% {
@@ -352,6 +352,12 @@
   100% {
     transform: translateX(300px);
   }
+}
+.app-wrapper .footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  opacity: 0.1;
 }
 
 /*# sourceMappingURL=App.css.map */
