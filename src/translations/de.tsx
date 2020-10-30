@@ -14,4 +14,15 @@ export const DE = [
   "Die Webseite ist optimiert für Google Chrome, Full HD 16:9 Resolution. Andere Browser, Smartphone Resolutions etc habe ich mir noch nicht angenommen.", //12
   "Der Code ist Open Source und kann mit dem Link unten eingesehen werden.", //13
   "GitHub", //14
+  "Persönliche Daten", //15
+  "Fähigkeiten", //16
+  "Berufserfahrung", //17
+  "Bildungsweg", //18
+  "Sprachen", //19
+  "Persönliche Projekte", //20
+  "Placeholder", //21
+  "Hobbies", //22
+  "Sonstiges", //23
+  "Junior Software Developer", //24
+  "Willkommen auf meiner persönlichen Webseite", //25
 ]

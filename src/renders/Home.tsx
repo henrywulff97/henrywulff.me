@@ -1,5 +1,7 @@
 import React, { Component } from "react";
+import "./../css/Home.css";
 import { translate } from "./../translations/translator"
+import me from './../resources/HWU.jpg';
 
 type Props = {
     
@@ -17,7 +19,19 @@ export default class Home extends Component<Props, State> {
     render() {
         return(
             <div className="main-component">
-              Home
+                <div className="homepage-text">
+                    <div className="my-name">
+                        {translate(0)}
+                    </div>
+                    <div className="my-title">
+                        {translate(24)}
+                    </div>
+                    <hr className="divider"/>
+                    <div className="welcome">
+                        {translate(25)}
+                    </div>
+                    <img className="portait" src={me}/>
+                </div>
             </div>
         )
     }

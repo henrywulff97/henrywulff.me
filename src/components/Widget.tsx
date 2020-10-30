@@ -4,7 +4,7 @@ import { translate } from "./../translations/translator"
 
 type Props = {
     coverText: string,
-    text: string
+    text: ReactElement
     onOpenSideDialog: () => void
 }
 

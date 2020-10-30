@@ -2,6 +2,7 @@
 
 body {
   color: white;
+  font-family: OpenSans;
 }
 
 code {
@@ -10,6 +11,6 @@ code {
 }
 
 @font-face {
-  font-family: moonglade;
-  src: url("./../resources/Moonglade.ttf");
+  font-family: OpenSans;
+  src: url("./../resources/OpenSans.ttf");
 }

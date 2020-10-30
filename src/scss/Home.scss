@@ -1,0 +1,37 @@
+.main-component {
+  .homepage-text {
+    padding-top: 6rem;
+    display: flex;
+    flex-direction: column;
+
+    .my-name {
+      font-size: 5rem;
+      font-weight: bold;
+      opacity: .9;
+    }
+
+    .my-title {
+      font-size: 1.5rem;
+      opacity: .5;
+    }
+
+    .divider {
+      width: 10%;
+      text-align: left;
+      margin: 1rem 0 3rem 0;
+      opacity: .5;
+      border-bottom: 3px solid white;
+    }
+
+    .welcome {
+      font-size: 2rem;
+      opacity: .75;
+    }
+
+    .portait {
+      position: absolute;
+      right: 0;
+      border-radius: 10px;
+    }
+  }
+}

@@ -8,32 +8,40 @@
   color: rgba(255, 255, 255, 0.8);
 }
 .top-bar > * {
+  display: flex;
   flex: auto;
   height: 100%;
+  width: 33.3%;
 }
 .top-bar .top-bar-left .logo {
   padding-left: 1rem;
   height: 100%;
-  width: fit-content;
   display: grid;
   align-content: center;
+  width: fit-content;
   cursor: pointer;
-  font-family: moonglade;
-  font-size: 1.8rem;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 8px;
   transition: color 300ms ease-in-out;
 }
 .top-bar .top-bar-left .logo:hover {
   color: white;
+}
+.top-bar .top-bar-center {
+  justify-content: center;
 }
 .top-bar .top-bar-center .tab-bar {
   display: flex;
   height: 100%;
 }
 .top-bar .top-bar-center .tab-bar .tab {
-  padding: 0 10px 0 10px;
+  font-size: 1.2rem;
   height: 100%;
+  width: 10rem;
   display: grid;
   align-content: center;
+  justify-content: center;
   border-top: 5px solid transparent;
   cursor: pointer;
   transition: color 300ms ease-in-out, border 300ms ease-in-out;
@@ -46,6 +54,9 @@
   background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.85), black);
   border-top: 5px solid white;
   color: white;
+}
+.top-bar .top-bar-right {
+  justify-content: flex-end;
 }
 .top-bar .top-bar-right .languageToggle {
   padding-right: 1rem;

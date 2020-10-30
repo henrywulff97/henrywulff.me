@@ -1,3 +1,32 @@
-
+.main-component .homepage-text {
+  padding-top: 6rem;
+  display: flex;
+  flex-direction: column;
+}
+.main-component .homepage-text .my-name {
+  font-size: 5rem;
+  font-weight: bold;
+  opacity: 0.9;
+}
+.main-component .homepage-text .my-title {
+  font-size: 1.5rem;
+  opacity: 0.5;
+}
+.main-component .homepage-text .divider {
+  width: 10%;
+  text-align: left;
+  margin: 1rem 0 3rem 0;
+  opacity: 0.5;
+  border-bottom: 3px solid white;
+}
+.main-component .homepage-text .welcome {
+  font-size: 2rem;
+  opacity: 0.75;
+}
+.main-component .homepage-text .portait {
+  position: absolute;
+  right: 0;
+  border-radius: 10px;
+}
 
 /*# sourceMappingURL=Home.css.map */

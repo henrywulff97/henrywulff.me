@@ -5,7 +5,6 @@ $shooting-time: 3000ms;
   height: 100vh;
   overflow: hidden;
   display: flex;
-  font-family: 'Anton', sans-serif;
   justify-content: center;
   align-items: center;
   margin-top: auto;
@@ -13,7 +12,7 @@ $shooting-time: 3000ms;
     
   .page-content-wrapper {
     position: absolute;
-    width: 70%;
+    width: 65%;
     height: 90%;
     top: 10%;
   }
