@@ -1,5 +1,7 @@
 .imprint {
-  .text {
-    
-  }
+  width: 100%;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 20px;
+  border-radius: 25px;
 }

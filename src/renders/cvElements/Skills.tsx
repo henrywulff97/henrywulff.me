@@ -1,20 +1,23 @@
 import { ReactElement } from "react";
-
 import React from "react";
+import { translate } from "../../translations/translator";
 
 export default abstract class Skills {
   public static ShortDesc(): ReactElement {
     return(
       <div>
-        Personal Data ShortDesc
+        {translate(38)}
       </div>
     )
   }
 
   public static SideDialogContent(): ReactElement {
     return(
-      <div>
-        Personal Data Side Dialog Content
+      <div className="skills">
+        <div className="main-header">
+          {translate(16)}
+        </div>
+        <hr className="divider"/>
       </div>
     )
   }

@@ -20,8 +20,9 @@ export default class App extends Component<Props, State> {
         }
 
         this.changePage = this.changePage.bind(this);
-
-        sessionStorage.setItem("activeLanguage", "de")
+        if (sessionStorage.getItem("activeLanguage") == null) {
+            sessionStorage.setItem("activeLanguage", "de")
+        }
     }
 
     changePage(possiblePage: "home" | "cv" | "about" | "imprint"): string {

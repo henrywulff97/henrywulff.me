@@ -1,6 +1,5 @@
 .widget {
   position: relative;
-  border: 1px solid rgba(10, 10, 10, 0.25);
   margin: 0.5rem;
   height: 12rem;
 }
@@ -12,18 +11,30 @@
   justify-content: center;
 }
 .widget .cover {
+  font-size: 1.5rem;
   backdrop-filter: blur(10px);
   background-color: rgba(255, 255, 255, 0.5);
   cursor: pointer;
+  transition: background-color 200ms ease-in-out, font-size 200ms ease-in-out;
+}
+.widget .cover:hover {
+  background-color: rgba(200, 200, 200, 0.5);
+  font-size: 1.7rem;
 }
 .widget .content {
   backdrop-filter: blur(10px);
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 .widget .content .open-side-dialog {
+  font-style: italic;
   position: absolute;
-  bottom: 0;
+  bottom: 0.5rem;
   cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 200ms ease-in-out;
+}
+.widget .content .open-side-dialog:hover {
+  background-color: rgba(255, 255, 255, 0.25);
 }
 
 /*# sourceMappingURL=Widget.css.map */

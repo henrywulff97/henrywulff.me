@@ -22,7 +22,7 @@ export default class About extends Component<Props, State> {
                 <div>{translate(11)}</div>
                 <div>{translate(12)}</div>
                 <div>{translate(13)}</div>
-                <a className="github" href="https://github.com/henrywulff97/henrywulff.me" target="_blank">{translate(14)}</a>
+                <a className="github" href="https://github.com/henrywulff97/henrywulff.me" target="_blank" rel="noopener noreferrer">{translate(14)}</a>
             </div>
         )
     }

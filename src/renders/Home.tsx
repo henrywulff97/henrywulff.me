@@ -30,7 +30,7 @@ export default class Home extends Component<Props, State> {
                     <div className="welcome">
                         {translate(25)}
                     </div>
-                    <img className="portait" src={me}/>
+                    <img className="portrait" src={me} alt="portrait"/>
                 </div>
             </div>
         )

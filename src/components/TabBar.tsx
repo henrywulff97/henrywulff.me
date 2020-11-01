@@ -19,7 +19,7 @@ export default class TabBar extends Component<Props, State> {
     }
 
     changeLanguage() {
-        if (sessionStorage.getItem("activeLanguage") == "de") {
+        if (sessionStorage.getItem("activeLanguage") === "de") {
             sessionStorage.setItem("activeLanguage", "en")
         }
         else {
@@ -42,9 +42,9 @@ export default class TabBar extends Component<Props, State> {
         let cvClassName = tabclassName;
         let aboutClassName = tabclassName;
         let imprintClassName = tabclassName;
-        cvClassName += this.state.activeTab == "cv" ? " " + activeTabClassName : "";
-        aboutClassName += this.state.activeTab == "about" ? " " + activeTabClassName : "";
-        imprintClassName += this.state.activeTab == "imprint" ? " " + activeTabClassName : "";
+        cvClassName += this.state.activeTab === "cv" ? " " + activeTabClassName : "";
+        aboutClassName += this.state.activeTab === "about" ? " " + activeTabClassName : "";
+        imprintClassName += this.state.activeTab === "imprint" ? " " + activeTabClassName : "";
 
         return (
             <div className="tab-bar">
@@ -64,7 +64,7 @@ export default class TabBar extends Component<Props, State> {
                 <div className="top-bar-center">
                     {this.renderTabBar()}
                 </div>
-                <div className="top-bar-right" onClick={()=>this.changeLanguage()}>
+                <div className="top-bar-right">
                     <div className="languageToggle" onClick={()=>this.changeLanguage()}>DE/EN</div>
                 </div>
             </div>
