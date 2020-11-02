@@ -1,6 +1,5 @@
 import React, { Component, ReactElement } from "react";
 import "./../css/SideDialog.css";
-import { translate } from "./../translations/translator"
 
 type Props = {
     contentElement: ReactElement
@@ -12,10 +11,6 @@ type State = {
 }
 
 export default class SideDialog extends Component<Props, State> {
-    constructor(props: Props) {
-        super(props);
-    }
-
     render() {
         return(
             <div className="side-dialog-wrapper">

@@ -11,10 +11,6 @@ type State = {
 }
 
 export default class About extends Component<Props, State> {
-    constructor(props: Props) {
-        super(props);
-    }
-
     render() {
         return(
             <div className="main-component about">
@@ -22,6 +18,7 @@ export default class About extends Component<Props, State> {
                 <div>{translate(11)}</div>
                 <div>{translate(12)}</div>
                 <div>{translate(13)}</div>
+                <div>{translate(74)}</div>
                 <a className="github" href="https://github.com/henrywulff97/henrywulff.me" target="_blank" rel="noopener noreferrer">{translate(14)}</a>
             </div>
         )

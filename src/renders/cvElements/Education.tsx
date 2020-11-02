@@ -18,6 +18,28 @@ export default abstract class Education {
           {translate(18)}
         </div>
         <hr className="divider"/>
+        <div className="sub-header">
+          {translate(59)}
+        </div>
+        <div className="sub-header-add">
+          {translate(60)}
+        </div>
+        <div className="addition">
+          {translate(61)}
+        </div>
+        <div className="text">
+          {translate(62)}
+        </div>
+        <br/>
+        <div className="sub-header">
+          {translate(63)}
+        </div>
+        <div className="sub-header-add">
+          {translate(64)}
+        </div>
+        <div className="addition">
+          {translate(65)}
+        </div>
       </div>
     )
   }

@@ -11,10 +11,6 @@ type State = {
 }
 
 export default class Imprint extends Component<Props, State> {
-    constructor(props: Props) {
-        super(props);
-    }
-
     render() {
         return(
             <div className="main-component imprint">

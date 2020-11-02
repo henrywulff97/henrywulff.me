@@ -18,6 +18,12 @@ export default abstract class Miscellaneous {
           {translate(23)}
         </div>
         <hr className="divider"/>
+        <div className="sub-header">
+          {translate(87)}
+        </div>
+        <div className="text">
+          {translate(88)}
+        </div>
       </div>
     )
   }

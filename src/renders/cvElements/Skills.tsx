@@ -18,6 +18,20 @@ export default abstract class Skills {
           {translate(16)}
         </div>
         <hr className="divider"/>
+        <div className="list">
+          <div className="item">
+            {translate(41)}
+          </div>
+          <div className="item">
+            {translate(42)}
+          </div>
+          <div className="item">
+            {translate(43)}
+          </div>
+          <div className="item">
+            {translate(44)}
+          </div>
+        </div>
       </div>
     )
   }

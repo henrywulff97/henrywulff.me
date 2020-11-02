@@ -18,6 +18,35 @@ export default abstract class Languages {
           {translate(19)}
         </div>
         <hr className="divider"/>
+        <div className="sub-header">
+          {translate(66)}
+        </div>
+        <div className="sub-header-add">
+          {translate(67)}
+        </div>
+        <div className="text">
+          {translate(68)}
+        </div>
+        <br/>
+        <div className="sub-header">
+          {translate(69)}
+        </div>
+        <div className="sub-header-add">
+          {translate(67)}
+        </div>
+        <div className="text">
+          {translate(70)}
+        </div>
+        <br/>
+        <div className="sub-header">
+          {translate(71)}
+        </div>
+        <div className="sub-header-add">
+          {translate(72)}
+        </div>
+        <div className="text">
+          {translate(73)}
+        </div>
       </div>
     )
   }

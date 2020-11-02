@@ -32,6 +32,20 @@
   margin: 1rem 0 1.5rem 0;
   border-bottom: 3px solid white;
 }
+.side-dialog-wrapper .side-dialog .content .sub-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.side-dialog-wrapper .side-dialog .content .sub-header-add {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+.side-dialog-wrapper .side-dialog .content .addition {
+  font-size: 0.8rem;
+}
+.side-dialog-wrapper .side-dialog .content .list > * {
+  display: list-item;
+}
 .side-dialog-wrapper .side-dialog .content .horizontal-alignment .pair {
   display: flex;
   margin-bottom: 0.5rem;

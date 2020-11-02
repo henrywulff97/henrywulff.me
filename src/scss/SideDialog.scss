@@ -36,6 +36,34 @@
         border-bottom: 3px solid white;
       }
 
+      .sub-header {
+        font-size: 1.5rem;
+        font-weight: bold;
+      }
+
+      .sub-header-add {
+        font-size: 1.2rem;
+        font-style: italic;
+      }
+
+      .addition {
+        font-size: 0.8rem;
+      }
+
+      .text {
+
+      }
+
+      .list {
+        & > * {
+          display: list-item;
+        }
+
+        .item {
+
+        }
+      }
+
       .horizontal-alignment {
         .pair {
           display: flex;

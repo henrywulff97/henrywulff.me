@@ -18,6 +18,25 @@ export default abstract class PersonalProjects {
           {translate(20)}
         </div>
         <hr className="divider"/>
+        <div className="sub-header">
+          {translate(75)}
+        </div>
+        <div className="sub-header-add">
+          {translate(76)}
+        </div>
+        <div className="text">
+          {translate(77)}
+        </div>
+        <br/>
+        <div className="sub-header">
+          {translate(78)}
+        </div>
+        <div className="sub-header-add">
+          {translate(79)}
+        </div>
+        <div className="text">
+          {translate(80)}
+        </div>
       </div>
     )
   }
