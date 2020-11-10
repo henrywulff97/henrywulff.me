@@ -2,7 +2,7 @@ import React, { Component, ReactElement } from "react";
 import "./../css/CV.css";
 import { translate } from "./../translations/translator";
 import { SideDialog, Widget } from "./../components/components";
-import { Education, Hobbies, Languages, Miscellaneous, PersonalData, PersonalProjects, Placeholder, Skills, WorkExperience } from "./cvElements/cvElements";
+import { Education, Hobbies, Languages, Miscellaneous, PersonalData, PersonalProjects, Health, Skills, WorkExperience } from "./cvElements/cvElements";
 
 type Props = {
     
@@ -61,7 +61,7 @@ export default class CV extends Component<Props, State> {
                 </div>
                 <div className="grid-x">
                     <div className="cell medium-4">
-                        <Widget coverText={translate(21)} text={Placeholder.ShortDesc()} onOpenSideDialog={()=>this.openSideDialog(Placeholder.SideDialogContent())}/>
+                        <Widget coverText={translate(89)} text={Health.ShortDesc()} onOpenSideDialog={()=>this.openSideDialog(Health.SideDialogContent())}/>
                     </div>
                     <div className="cell medium-4">
                         <Widget coverText={translate(22)} text={Hobbies.ShortDesc()} onOpenSideDialog={()=>this.openSideDialog(Hobbies.SideDialogContent())}/>

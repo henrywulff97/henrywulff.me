@@ -50,6 +50,9 @@ export default abstract class WorkExperience {
             {translate(50)}
           </div>
           <div className="item">
+            {translate(94)}
+          </div>
+          <div className="item">
             {translate(51)}
           </div>
         </div>

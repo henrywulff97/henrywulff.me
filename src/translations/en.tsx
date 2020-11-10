@@ -88,4 +88,10 @@ export const EN = [
   "Not too long ago I started going to the gym regularly. I am simply too tall to be so narrow... However, the corona situation is currently delaying my progress", //86
   "driving licence", //87
   "At the age of seventeen, I obtained a class B driving licence. (and since then I have been able to keep it...)", //88
+  "Health", //89
+  "Not a headline that you normally see in a CV. Nevertheless it will be interesting for an employer.", //90  
+  "In May 2020 I was diagnosed with diabetes mellitus type 1. This means that I have to monitor my blood sugar more or less continuously and inject insulin before every meal.", //91
+  "I would claim that I can already live with these restrictions so well that they no longer affect me significantly.", //92
+  "Nevertheless, I am considered severely disabled by this illness, even if not yet officially. I plan to talk to my diabetologist on my next visit and ask him to certify this.", //93
+  "For the rest of my training I did what I now do full-time", //94
 ]

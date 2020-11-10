@@ -54,5 +54,9 @@
   font-weight: bold;
   width: 25%;
 }
+.side-dialog-wrapper .side-dialog .content .portrait {
+  margin-top: 1rem;
+  border-radius: 10px;
+}
 
 /*# sourceMappingURL=SideDialog.css.map */

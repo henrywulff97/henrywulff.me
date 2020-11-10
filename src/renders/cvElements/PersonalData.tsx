@@ -1,6 +1,7 @@
 import { ReactElement } from "react";
 import React from "react";
 import { translate } from "../../translations/translator";
+import me from './../../resources/HWU.jpg';
 
 export default abstract class PersonalData {
   public static ShortDesc(): ReactElement {
@@ -54,14 +55,15 @@ export default abstract class PersonalData {
             </div>
           </div>
           <div className="pair">
-          <div className="key"> 
-            {translate(30)}
-          </div>
-          <div className="value">
-            {translate(31)}
-          </div>
+            <div className="key"> 
+              {translate(30)}
+            </div>
+            <div className="value">
+              {translate(31)}
+            </div>
           </div>
         </div>
+        <img className="portrait" src={me} alt="portrait"/>
       </div>
     )
   }

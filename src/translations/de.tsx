@@ -55,24 +55,24 @@ export const DE = [
   "August 2017 – Februar 2020", //53
   "Raiffeisen Zentralheide, Rethem", //54
   "Vorwaschjunge der Autowaschanlage", //55
-  "von dann bis dann", //56
+  "September 2014 – Juli 2017 ", //56
   "Erfahrungen mit körperlicher Arbeit", //57
   "Direkter sozialer Kontakt mit Kunden", //58
   "Berufsbildende Schulen Walsrode, Walsrode", //59
   "Allgemeine Hochschulreife", //60
-  "MONAT 20XX – MONAT 20XX", //61
+  "August 2014 – Juni 2017", //61
   "Hier besuchte ich ein berufliches Gymnasium mit Fachrichtung Technik. Dies unterschied sich so von einem allgemeinbildenden Gymnasium, dass ich neben den herkömmlichen Fächern auch noch 'Technik' hatte, wo ich über Elektrotechnik, Automatisierung und Informatik unterrichtet wurde.", //62
   "Heinrich-Christoph-Londy Schule, Rethem", //63
   "Erweiterter Realschulabschluss", //64
-  "MONAT 20XX – MONAT 20XX", //65
+  "August 2009 – Juli 2014", //65
   "Deutsch", //66
   "fließend in Wort und Schrift", //67
-  "Meine Muttersprache. Ich bin geborgen und aufgewachsen in Deutschland, demnach bin ich natürlich fließend in deutsch.", //68
+  "Meine Muttersprache. Ich bin geboren und aufgewachsen in Deutschland, demnach bin ich natürlich fließend in deutsch.", //68
   "Englisch", //69
   "Ich wage zu behaupten fast so gut englisch zu sprechen, wie ich deutsch sprechen kann. Durch Jahre lange Kommunikation mit Internetbekanntschaften aus ganz Europa, denke ich häufig sogar auf englisch.", //70
   "Französisch", //71
   "Ausbaufähig in Wort und Schrift", //72
-  "Seit meiner Zeit im Beruflichen Gymnasium habe ich kein französisch mehr gesprochen. Ein bisschen was ist noch hängen geblieben, aber ich glaube nicht, dass ich ein Gespräch auf französisch führen könnte.", //73
+  "Seit meiner Zeit im Beruflichen Gymnasium habe ich kein Französisch mehr gesprochen. Ein bisschen was ist noch hängen geblieben, aber ich glaube nicht, dass ich ein Gespräch auf französisch führen könnte.", //73
   "Was ich auch noch hinzufügen möchte sind ein paar mehr Animationen beim Verschwinden und Auftauchen von DOM Elementen und Routing damit man in der Webseite vor und zurück springen kann.", //74
   "henrywulff.me", //75
   "Persönliche Webseite", //76
@@ -88,4 +88,10 @@ export const DE = [
   "Vor nicht zu langer Zeit habe ich damit begonnen regelmäßig ins Fitnessstudio zu gehen. Ich bin einfach zu groß, um so schmal zu sein... Allerdings verzögert die Corona Lage momentan meinen Fortschritt.", //86
   "Führerschein", //87
   "In meinem siebzehnten Lebensjahr habe ich den Führerschein der Klasse B erworben. (und seit dem habe ich ihn auch behalten können...)", //88
+  "Gesundheit", //89
+  "Keine Überschrift, die man normalerweise in einem Lebenslauf sieht. Trotzdem wird es für einen Arbeitgeber interessant sein.", //90
+  "Im Mai 2020 wurde ich mit Diabetes Mellitus Typ 1 diagnostiziert. Dies bedeutet für mich, dass ich mehr oder weniger ununterbrochen meinen Blutzucker beobachten und mir vor jedem Essen Insulin injizieren muss.", //91
+  "Ich würde behaupten, dass ich jetzt schon so gut mit diesen Einschränkungen leben kann, dass diese mich nicht mehr nennenswert beeinträchtigen.", //92
+  "Dennoch gelte ich durch diese Erkrankung als schwerbehindert, auch wenn noch nicht offiziell. Ich plane meinen Diabetologen bei meinem nächsten Besuch darauf anzusprechen, mir dies auch bescheinigen zu lassen.", //93
+  "Den Rest meiner Ausbildung habe ich das getan, was ich jetzt auch vollangestellt tue.", //94
 ]
