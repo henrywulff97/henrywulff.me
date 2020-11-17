@@ -94,4 +94,8 @@ export const EN = [
   "I would claim that I can already live with these restrictions so well that they no longer affect me significantly.", //92
   "Nevertheless, I am considered severely disabled by this illness, even if not yet officially. I plan to talk to my diabetologist on my next visit and ask him to certify this.", //93
   "For the rest of my training I did what I now do full-time", //94
+  "These are the programming languages that I have been using daily for a few years or that I used in my previous team", //95
+  "I have also been using these technologies in my work every day for quite some time now", //96
+  "I have worked with Scrum in two different teams, which dealt with it in very different ways", //97
+  "Jira and Confluence are also technologies that we use every day. Both programs interact with each other and with external tools very well due to their extensive APIs", //98
 ]

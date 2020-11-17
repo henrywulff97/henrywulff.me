@@ -94,4 +94,8 @@ export const DE = [
   "Ich würde behaupten, dass ich jetzt schon so gut mit diesen Einschränkungen leben kann, dass diese mich nicht mehr nennenswert beeinträchtigen.", //92
   "Dennoch gelte ich durch diese Erkrankung als schwerbehindert, auch wenn noch nicht offiziell. Ich plane meinen Diabetologen bei meinem nächsten Besuch darauf anzusprechen, mir dies auch bescheinigen zu lassen.", //93
   "Den Rest meiner Ausbildung habe ich das getan, was ich jetzt auch vollangestellt tue.", //94
+  "Dies sind die Programmiersprachen, welche ich seit ein paar Jahren täglich nutze bzw in meinem vorherigen Team nutzte.", //95
+  "Auch diese Technologien nutze ich bei meiner Arbeit schon eine ganze Weile täglich.", //96
+  "Ich habe in zwei unterschiedlichen Teams mit Scrum gearbeitet, welche sehr unterschiedlich damit umgegangen sind.", //97
+  "Jira und Confluence sind auch Technologien, mit welchen in täglich umgehe. Beide Programme interargieren miteinander und mit externen Tools sehr gut durch ihre umfangreichen APIs", //98
 ]
